@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login menggunakan akun super soccer tv</description>
+   <name>Login Super Soccer TV</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5cd65823-4c95-4536-b36b-b433f53c7231</testCaseGuid>
+</TestCaseEntity>
